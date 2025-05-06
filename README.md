@@ -83,15 +83,15 @@ void led(){
 	}
 	HAL_Delay(500);
 }
-
 ```
 
 
 ## Output  :
+### OFF Condition:
+![IMG_9470](https://github.com/user-attachments/assets/49e396d9-28cd-4ccd-bbf3-bbb6baf4c2fd)
+### ON Condition:
+![IMG_9469](https://github.com/user-attachments/assets/5e5f3526-bcbc-4a64-822f-07bb60d0df68)
 
-
- 
-## layout of the circuit 
  
  
 ## Result :
